@@ -1,6 +1,2 @@
-ivxbase/ivxbase
-mysql 5.7.44
-nginx
-redis
-apline
+docker.io
 docker
